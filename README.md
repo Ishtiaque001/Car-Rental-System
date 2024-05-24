@@ -1,4 +1,4 @@
 # Car-Rental-System
 This is my first git repository.
 <br>
-Author- Ishtiaque Mahmud 
+Author- Ishtiaque Mahmud (Sakif)
